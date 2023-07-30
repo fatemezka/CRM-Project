@@ -1,2 +1,2 @@
 # CRM-Project
-This is a CRM project with python and django framework.
+This is a simple CRM project which was written with Python and Django framework.
